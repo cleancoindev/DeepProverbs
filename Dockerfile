@@ -1,5 +1,5 @@
 # Base image
-FROM tensorflow/tensorflow:1.15.0-py3
+FROM tensorflow/tensorflow:1.15.5-py3
 
 # Install protobug compiler
 # sudo apt-get update && install protobuf-compiler git-core
